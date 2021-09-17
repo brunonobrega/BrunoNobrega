@@ -1,5 +1,5 @@
 ## Hi there, I'm Bruno Nobrega 👋
-- 🔭 I'm currently working in Personal Porjects
+- 🔭 I'm currently working in Personal Projects
 - 🌱 I'm currently learning about Flutter, Microservices and Software Architecture.
 - 📫 How to reach me: bruno.nobrega@hotmail.com / <a href="https://brunonobrega.com" target="_blank">brunonobrega.com</a>
 
