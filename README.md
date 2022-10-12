@@ -1,5 +1,5 @@
 ## Hi there, I'm Bruno Nobrega 👋
-- 🔭 I'm currently working at Blinctek
+- 🔭 I'm currently looking for a new opportunity
 - 🌱 I'm currently learning about Django, Unity, C#, Microservices and Software Architecture.
 - 📫 How to reach me: bruno.nobrega@hotmail.com / <a href="https://brunonobrega.com" target="_blank">brunonobrega.com</a>
 
