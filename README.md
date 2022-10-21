@@ -1,7 +1,7 @@
 ## Hi there, I'm Bruno Nobrega 👋
-- 🔭 I'm currently looking for a new opportunity
-- 🌱 I'm currently learning about Django, Unity, C#, Microservices and Software Architecture.
-- 📫 How to reach me: bruno.nobrega@hotmail.com / <a href="https://brunonobrega.com" target="_blank">brunonobrega.com</a>
+- 🔭 I'm currently looking for a new challenge
+- 🌱 I'm currently learning more about Javascript, NodeJs, Unity and C#.
+- 📫 How to reach me: brunoferreiranobrega@gmail.com / <a href="https://brunonobrega.com" target="_blank">brunonobrega.com</a>
 
  <div>
   <a href="https://github.com/BrunoNobrega">
